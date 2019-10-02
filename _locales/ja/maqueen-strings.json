@@ -1,0 +1,23 @@
+{
+    "maqueen.aMotors.M1|block": "左側",
+    "maqueen.aMotors.M2|block": "右側",
+    "maqueen.Patrol.PatrolLeft|block": "左側",
+    "maqueen.Patrol.PatrolRight|block": "右側",
+    "maqueen.LEDswitch.turnOn|block": "ON",
+    "maqueen.LEDswitch.turnOff|block": "OFF",
+    "maqueen.LED.LEDLeft|block": "左側",
+    "maqueen.LED.LEDRight|block": "右側",
+    "maqueen.Dir.CW|block": "前進（時計回り）",
+    "maqueen.Dir.CCW|block": "後退（反時計回り）",
+    "maqueen.motorStop|block": "モーター 停止|%motors",
+    "maqueen.motorStopAll|block": "モーター全停止",
+    "maqueen.MotorRun|block": "%index|モーター|%Dir|速度|%speed",
+    "maqueen.IR_callbackUser|block": "赤外線センサーコールバック",
+    "maqueen.sensor|block": "超音波センサー距離|%unit",
+    "maqueen.readPatrol|block": "ラインセンサー|%patrol",
+    "maqueen.writeLED|block": "LED|%led,|%ledswitch",
+    "maqueen.IR_read|block": "赤外線数値",
+    "maqueen.ServoRun|block": "サーボ|%index|角度|%angle",
+    "maqueen.IR_read_version|block": "赤外線通信",
+    "maqueen.aMotors.All|block": "全部"
+}
